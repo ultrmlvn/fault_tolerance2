@@ -27,10 +27,11 @@
 `Ответ:`
 
 1. `Скриншот статуса балансировщика и целевой группы`
-
+![Скрин](https://github.com/ultrmlvn/fault_tolerance2/blob/main/1.png)
+![Скрин2](https://github.com/ultrmlvn/fault_tolerance2/blob/main/2.png)
 
 2. `Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.`
-
+![Скрин3](https://github.com/ultrmlvn/fault_tolerance2/blob/main/3.png)
 
 
 
